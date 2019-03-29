@@ -12,7 +12,7 @@
 		{
 			"id": "markdown",
 			"name": "Markdown",
-			"description": "Edit properties in Markdown and display them with HTML. Uses the popular [Showdown](http://showdownjs.github.io/demo/) library.",
+			"description": "Edit properties in Markdown and display them with HTML. Uses the popular [Showdown](http://showdownjs.github.io/demo/) library.\n\n",
 			"tag": [
 				"Editing"
 			],
